@@ -1,0 +1,158 @@
+BasicInfo:
+  FirstName: Samuel
+  LastName: Hierholzer-Ruprecht
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +41 79 923 50 51
+    - Icon: fas fa-envelope
+      Info: sam@yosemitesam.ch
+    - Icon: fas fa-globe
+      Info: yosemitesam.ch
+    - Icon: fas fa-map-marker-alt
+      Info: Switzerland
+
+Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Experience:
+  - Employer: Andeo AG
+    Place: Winterthur, Switzerland
+    Positions:
+      - Title: Linux System Administrator
+        Date: Aug 2028 - Present
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+          - Sed viverra tellus in hac.
+          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        Badges: ['Bash', 'Debian', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+  - Employer: Solexperts AG
+    Place: Winterthur, Switzerland
+    Positions:
+      - Title: Linux System Administrator
+        Date: Aug 2028 - Present
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+          - Sed viverra tellus in hac.
+          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        Badges: ['Bash', 'Debian', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+  - Employer: In&Work AG
+    Place: Winterthur, Switzerland
+    Positions:
+      - Title: Linux System Administrator
+        Date: Aug 2028 - Present
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+          - Sed viverra tellus in hac.
+          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        Badges: ['Bash', 'Debian', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+  - Employer: PC Lade Inh. Senol Sakru
+    Place: Otelfingen/Buchs ZH, Switzerland
+    Positions:
+      - Title: Linux System Administrator
+        Date: Aug 2028 - Present
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+          - Sed viverra tellus in hac.
+          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        Badges: ['Bash', 'Debian', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+  - Employer: McDonalds
+    Place: Regensdorf, Switzerland
+    Positions:
+      - Title: Crew Member
+        Date: Mar 2013 - Apr 2014
+        Details:
+          - Operating the cash register
+          - Cleaning (from tables to kitchen machines to the outside walls, basically everything)
+        Badges: ['Cleaning', 'Customer Experience']
+  - Employer: Lernzentren/Libs Zürich
+    Place: Oerlikon ZH, Switzerland
+    Positions:
+      - Title: apprenctice constructor (machine design)
+        Date: Aug 2014 - Sept 2015
+        Details:
+          - 3D CAD
+          - 6 months workshop experience with metal turning, milling, welding & grinding
+          - programming/basic operation of CNC milling Machines
+        Badges: ['Workshop 101', 'CAD']
+
+Education:
+  - Course: Information Technologist, Federal Diploma of Vocational Education and Training, Specialism System and Network Technology
+    Place: Technische Berufsschule Zürich, Solexperts AG
+    Date: Aug 2014 - Jul 2019
+    Details: fundamentals of systems engineering, enterpreneurial skills pass (LINK IT)
+  - Course: One of 4 years apprenticeship constructor (machine design)
+    Place: Berufsschule Rüti
+    Date: Aug 2011 - Oct 2012
+    Details: CAD drawing, Material Science
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - Bash
+      - HTML
+      - Javascript
+      - CSS
+      - SASS
+      - SQL
+      - Python
+      - Nix
+  - Family: Frameworks
+    Items:
+      - Django
+      - Flask
+      - Hugo
+      - React
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Emacs
+  - Family: OS & Hardware
+    Items:
+      - Debian
+      - NixOS
+      - Centos
+      - Windows
+      - Solaris (very brief)
+      - Netapp
+      - Proxmox
+      - VMware ESX
+      -
+  - Family: Misc
+    Items:
+      - Adobe Tools
+      - LaTeX
+
+Languages:
+  - Name: Portuguese
+    Level: Native
+  - Name: English
+    Level: C2
+  - Name: Spanish
+    Level: B1
+  - Name: German
+    Level: B1
+
+Diplomas:
+  - ISTQB Tester Certification (2019)
+  - English Cambridge CAE (2009)
+
+Interests:
+  - Bouldering
+  - Bass Guitar
+  - Almost any kind of music
+  - Computer automation
+  - camping with my wife in our VW Bus
