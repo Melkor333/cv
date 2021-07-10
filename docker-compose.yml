@@ -2,7 +2,7 @@ version: '3'
 
 services:
   cv:
-    image: registry.yosemitesam.ch:443/cv
+    image: registry.yosemitesam.ch:443/cv:0.1.0
     networks:
       - traefik-public
     deploy:
