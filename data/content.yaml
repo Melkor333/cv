@@ -1,7 +1,7 @@
 BasicInfo:
   FirstName: Samuel
   LastName: Hierholzer-Ruprecht
-  Photo: img/avatar.jpg
+  Photo: img/me_small.jpg
   Contacts:
     - Icon: fas fa-phone
       Info: +41 79 923 50 51
@@ -12,87 +12,84 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Switzerland
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: I'm a System-Engineer currently working at <a href="https://andeo.ch">Andeo AG</a>. I'm an open source enthusiast with a big love for perfection and automation. I dream of a completly automated environment.
 
 Experience:
   - Employer: Andeo AG
     Place: Winterthur, Switzerland
     Positions:
       - Title: Linux System Administrator
-        Date: Aug 2028 - Present
+        Date: Aug 2018 - Present
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Bash', 'Debian', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-  - Employer: Solexperts AG
-    Place: Winterthur, Switzerland
+          - Internal server & network maintenance
+          - Setup, maintenance of SME network & system infrastructures & 1. lvl support
+          - Maintenance of internal automation, mostly with bash
+          - Setup & maintenance of Proxmox Cluster in a cloud
+        Badges: ['Bash', 'Debian', 'Apache2', 'Shorewall', 'Proxmox', 'Ceph', 'Gitlab', 'Icinga2', 'Plesk', 'Openvpn/Wireguard']
+  - Employer: Solexperts AG (via bvz Berufslehrverbund Zürich)
+    Place: Mönchaltorf, Switzerland
     Positions:
-      - Title: Linux System Administrator
-        Date: Aug 2028 - Present
+      - Title: System Administrator Apprentice
+        Date: Aug 2017 - Jul 2018
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Bash', 'Debian', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-  - Employer: In&Work AG
-    Place: Winterthur, Switzerland
+          - Server & network maintenance
+          - Inhouse support for ~50 coworkers
+          - Product owner of in-field measuring devices (setup, maintenance, warehouse mgmt, internal coordination & billing, coordination of migration from deprecated win7 to debian)
+          - device management in vertec (including maintainance and development of a custom vertec database)
+          - Windows client staging, configuration & application packaging with Highsystem
+          - Implementation of Vlan as practical part of my apprentice evaluation
+        Badges: ['Debian', 'Win7/10', 'Highsystem', 'Vertec', 'Vlan', 'product management', 'bacula']
+  - Employer: In&Work AG (via bvz Berufslehrverbund Zürich)
+    Place: Zurich, Switzerland
     Positions:
-      - Title: Linux System Administrator
-        Date: Aug 2028 - Present
+      - Title: System Administrator Apprentice
+        Date: Sep 2015 - Jul 2017
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Bash', 'Debian', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+          - Internal server and network management with current best practices
+          - Linux Deep Dive (Linux From Scratch, preparation for RHCSA)
+          - Linux Infrastructure automation & monitoring
+          - Storage & Backup
+          - Virtualization with VMWare on HPE Servers
+          - Migration of two racks to a new location
+          - Various Exercises matching the school topics at that time like full monitoring evaluation, Active Directory automation, etc.
+        Badges: ['Redhat', 'Puppet/Katello', 'Checkmk', 'Cisco', 'Netapp', 'VMWare ESX', 'Solaris/AIX basics', 'Active Directory', 'Powershell', 'Gitlab']
   - Employer: PC Lade Inh. Senol Sakru
     Place: Otelfingen/Buchs ZH, Switzerland
     Positions:
-      - Title: Linux System Administrator
-        Date: Aug 2028 - Present
+      - Title: System Administrator Apprentice
+        Date: Aug 2014 - Aug 2015
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Bash', 'Debian', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+          - consulting & sales of electronics devices for private customers and SMEs
+          - Windows Decives setup, reparatur & co.
+        Badges: ['Windows 7/8/10', 'MS Office', 'customer relationship']
   - Employer: McDonalds
     Place: Regensdorf, Switzerland
     Positions:
       - Title: Crew Member
-        Date: Mar 2013 - Apr 2014
+        Date: Mar 2013 - Jul 2014
         Details:
           - Operating the cash register
           - Cleaning (from tables to kitchen machines to the outside walls, basically everything)
-        Badges: ['Cleaning', 'Customer Experience']
+        Badges: ['Cleaning', 'Customer Experience', 'Multitasking']
   - Employer: Lernzentren/Libs Zürich
     Place: Oerlikon ZH, Switzerland
     Positions:
-      - Title: apprenctice constructor (machine design)
-        Date: Aug 2014 - Sept 2015
+      - Title: Constructor Apprentice (machine design)
+        Date: Aug 2011 - Nov 2012
         Details:
           - 3D CAD
+          - Material science
           - 6 months workshop experience with metal turning, milling, welding & grinding
-          - programming/basic operation of CNC milling Machines
-        Badges: ['Workshop 101', 'CAD']
+          - Operation/programming of CNC milling Machines
+          - Basics in Automation (hydraulics & pneumatics)
+        Badges: ['Metal Workshop', 'CAD']
 
 Education:
   - Course: Information Technologist, Federal Diploma of Vocational Education and Training, Specialism System and Network Technology
     Place: Technische Berufsschule Zürich, Solexperts AG
     Date: Aug 2014 - Jul 2019
-    Details: fundamentals of systems engineering, enterpreneurial skills pass (LINK IT)
-  - Course: One of 4 years apprenticeship constructor (machine design)
+    Details: fundamentals of systems & network engineering, enterpreneurial skills pass (LINK IT)
+  - Course: First of 4 years constructor apprenticeship (machine design)
     Place: Berufsschule Rüti
     Date: Aug 2011 - Oct 2012
     Details: CAD drawing, Material Science
@@ -130,28 +127,24 @@ Skills:
       - Netapp
       - Proxmox
       - VMware ESX
-      -
+
   - Family: Misc
     Items:
       - Adobe Tools
       - LaTeX
 
 Languages:
-  - Name: Portuguese
+  - Name: (Swiss) German
     Level: Native
   - Name: English
-    Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
+    Level: ~B2-C1
 
 Diplomas:
   - ISTQB Tester Certification (2019)
   - English Cambridge CAE (2009)
 
 Interests:
-  - Bouldering
+  - Bouldering / Climbing
   - Bass Guitar
   - Almost any kind of music
   - Computer automation
