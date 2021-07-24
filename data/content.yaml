@@ -12,7 +12,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Switzerland
 
-Profile: I'm a System-Engineer currently working at <a href="https://andeo.ch">Andeo AG</a>. I'm an open source enthusiast with a big love for perfection and automation. I dream of a completly automated environment.
+Profile: I'm a System Engineer currently working at Andeo AG. I'm an open source enthusiast with a big love automation. I believe that using open source software is not enough. Only active contribution leads to a healthy community, relationship and a deeper understanding of this unique ecosystem(s) open source has to offer.
 
 Experience:
   - Employer: Andeo AG
@@ -22,10 +22,12 @@ Experience:
         Date: Aug 2018 - Present
         Details:
           - Internal server & network maintenance
-          - Setup, maintenance of SME network & system infrastructures & 1. lvl support
-          - Maintenance of internal automation, mostly with bash
-          - Setup & maintenance of Proxmox Cluster in a cloud
-        Badges: ['Bash', 'Debian', 'Apache2', 'Shorewall', 'Proxmox', 'Ceph', 'Gitlab', 'Icinga2', 'Plesk', 'Openvpn/Wireguard']
+          - Setup & maintenance of SME infrastructures, 1./2. lvl support
+          - Setup & maintenance of multiple Proxmox Clusters in multiple datacenters
+          - Maintenance of various services like plesk domain mgmt, asterisk pbx, sql server, etc.
+          - Complex VPN Infrastructure
+          - Custom configuration management of 200+ linux servers with bash
+        Badges: ['SME Infrastructure', 'Private Cloud', 'VPN & Routing Allrounder']
   - Employer: Solexperts AG (via bvz Berufslehrverbund Zürich)
     Place: Mönchaltorf, Switzerland
     Positions:
@@ -34,11 +36,11 @@ Experience:
         Details:
           - Server & network maintenance
           - Inhouse support for ~50 coworkers
-          - Product owner of in-field measuring devices (setup, maintenance, warehouse mgmt, internal coordination & billing, coordination of migration from deprecated win7 to debian)
           - device management in vertec (including maintainance and development of a custom vertec database)
           - Windows client staging, configuration & application packaging with Highsystem
+          - Product owner of in-field measuring devices (setup, maintenance, warehouse mgmt, internal coordination & billing, coordination of migration from deprecated win7 to debian)
           - Implementation of Vlan as practical part of my apprentice evaluation
-        Badges: ['Debian', 'Win7/10', 'Highsystem', 'Vertec', 'Vlan', 'product management', 'bacula']
+        Badges: ['Client Management', 'Product Lifecycle']
   - Employer: In&Work AG (via bvz Berufslehrverbund Zürich)
     Place: Zurich, Switzerland
     Positions:
@@ -46,22 +48,22 @@ Experience:
         Date: Sep 2015 - Jul 2017
         Details:
           - Internal server and network management with current best practices
-          - Linux Deep Dive (Linux From Scratch, preparation for RHCSA)
-          - Linux Infrastructure automation & monitoring
-          - Storage & Backup
+          - Infrastructure automation, monitoring & documentation with Gitlab, Puppet & CheckMK
+          - Linux Deep Dive (Linux From Scratch, studying of RHCSA course material)
           - Virtualization with VMWare on HPE Servers
-          - Migration of two racks to a new location
-          - Various Exercises matching the school topics at that time like full monitoring evaluation, Active Directory automation, etc.
-        Badges: ['Redhat', 'Puppet/Katello', 'Checkmk', 'Cisco', 'Netapp', 'VMWare ESX', 'Solaris/AIX basics', 'Active Directory', 'Powershell', 'Gitlab']
+          - Migration of the bureau and two racks to a new location (including cabling, labeling, etc.)
+          - Various Exercises matching the school topics at that time like monitoring evaluation and implementation or Active Directory automation
+        Badges: ['Linux', 'Enterprise Hardware', 'State of the Art IT']
   - Employer: PC Lade Inh. Senol Sakru
     Place: Otelfingen/Buchs ZH, Switzerland
     Positions:
       - Title: System Administrator Apprentice
         Date: Aug 2014 - Aug 2015
         Details:
-          - consulting & sales of electronics devices for private customers and SMEs
-          - Windows Decives setup, reparatur & co.
-        Badges: ['Windows 7/8/10', 'MS Office', 'customer relationship']
+          - Consulting, sales & support of electronics devices for private customers and SMEs
+          - Laptop/Comupter setup, repair & co.
+          - Malware cleaning
+        Badges: ['Microsoft', 'Customer Relationship', 'Support']
   - Employer: McDonalds
     Place: Regensdorf, Switzerland
     Positions:
@@ -69,7 +71,7 @@ Experience:
         Date: Mar 2013 - Jul 2014
         Details:
           - Operating the cash register
-          - Cleaning (from tables to kitchen machines to the outside walls, basically everything)
+          - Cleaning (from tables & kitchen machines to playground or the outside walls, pretty much everything)
         Badges: ['Cleaning', 'Customer Experience', 'Multitasking']
   - Employer: Lernzentren/Libs Zürich
     Place: Oerlikon ZH, Switzerland
@@ -85,67 +87,77 @@ Experience:
         Badges: ['Metal Workshop', 'CAD']
 
 Education:
-  - Course: Information Technologist, Federal Diploma of Vocational Education and Training, Specialism System and Network Technology
-    Place: Technische Berufsschule Zürich, Solexperts AG
+  - Course: Information Technologist apprenticeship, Specialism System and Network Technology
+    Place: Technische Berufsschule Zürich TBZ
     Date: Aug 2014 - Jul 2019
-    Details: fundamentals of systems & network engineering, enterpreneurial skills pass (LINK IT)
+    Details: Fundamentals of systems & network engineering in various courses, enterpreneurial skills pass
   - Course: First of 4 years constructor apprenticeship (machine design)
     Place: Berufsschule Rüti
     Date: Aug 2011 - Oct 2012
     Details: CAD drawing, Material Science
 
-
 Skills:
   - Family: Programming
     Items:
       - Bash
-      - HTML
-      - Javascript
-      - CSS
-      - SASS
       - SQL
+      - Nix (NixOS)
       - Python
-      - Nix
-  - Family: Frameworks
+      - Powershell
+  - Family: Virtualization
     Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
-  - Family: Developer Tools
-    Items:
-      - Git
-      - Docker
-      - Emacs
-  - Family: OS & Hardware
+      - Proxmox
+      - VMWare ESX/vSphere
+      - Docker (swarm)
+      - Ceph
+      - KVM with virsh
+  - Family: Operating Systems
     Items:
       - Debian
+      - Redhat/Centos
+      - Arch
       - NixOS
-      - Centos
-      - Windows
+      - Windows (10/Server 20XX)
       - Solaris (very brief)
       - Netapp
-      - Proxmox
-      - VMware ESX
-
-  - Family: Misc
+      - Dell OS10
+      - Cisco Switch & Firewall
+  - Family: Technology
     Items:
-      - Adobe Tools
-      - LaTeX
+      - Shorewall
+      - Bird BGP Routing
+      - Plesk
+      - Apache2
+      - Samba
+      - Postfix
+      - Asterisk
+      - IPSEC / Wireguard / OpenVPN
+      - SNMP
+      - Checkmk
+      - Icinga2 with NRPE
+      - Puppet / Katello
+      - Git / Gitlab / Github
+      - Bacula / Rsync / Borg Backup
+      - Vim & Emacs
+      - Highsystem / Chocolatey / NCentral
+      - Vertec
 
 Languages:
-  - Name: (Swiss) German
+  - Name: German
     Level: Native
   - Name: English
     Level: ~B2-C1
 
 Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+  - Information Technologist, Federal Diploma of Vocational Education and Training, Specialism System and Network Technology (2018)
+  - _
+  - EBC*L The international Certificate for Business Competence, Level A (2018)
+  - _
+  - Entrepreneurial Skills Pass (2017)
 
 Interests:
-  - Bouldering / Climbing
+  - Bouldering
   - Bass Guitar
-  - Almost any kind of music
-  - Computer automation
-  - camping with my wife in our VW Bus
+  - Music
+  - Linux
+  - Camping
