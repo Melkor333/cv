@@ -6,112 +6,112 @@ BasicInfo:
     - Icon: fas fa-phone
       Info: +41 79 923 50 51
     - Icon: fas fa-envelope
-      Info: sam@yosemitesam.ch
+      Info: samuel@ton-kunst.ch
     - Icon: fas fa-globe
       Info: yosemitesam.ch
     - Icon: fas fa-map-marker-alt
-      Info: Switzerland
+      Info: Pfungen, Schweiz
 
 Profile: Ich arbeite zurzeit als Systemtechniker bei der Andeo AG. Ich bin ein Open Source Fan und habe eine grosse Liebe für Automation. Ich glaub Open Source benutzen ist nicht genug. Nur aktive Beiträge führen zu einer gesunden Community, Beziehung und einem tieferen Verständnis der verschiedenen einzigartigen Opensource-Ökosysteme.
 
 Experience:
   - Employer: Andeo AG
-    Place: Winterthur, Switzerland
+    Place: Winterthur
     Positions:
       - Title: Linux System Administrator
-        Date: Aug 2018 - Present
+        Date: Aug 2018 - Jetzt
         Details:
-          - Internal server & network maintenance
-          - Setup & maintenance of SME infrastructures, 1./2. lvl support
-          - Setup & maintenance of multiple Proxmox Clusters in multiple datacenters
-          - Maintenance of various services like plesk domain mgmt, asterisk pbx, sql server, etc.
-          - Complex VPN Infrastructure
-          - Custom configuration management of 200+ linux servers with bash
-        Badges: ['SME Infrastructure', 'Private Cloud', 'VPN & Routing Allrounder']
+          - Interne Server / Netzwerk Administration
+          - Einrichten & Wartung von KMU Infrastrukturen inkl. 1./2. Level Support
+          - Einrichten & Wartung mehrerer Proxmox Clusters in verschiedenen Rechenzentren
+          - Wartung von diversen Services wie Plesk, Asterisk, MS/MySQL Server, etc.
+          - Wartung einer komplexe VPN Infrastruktur
+          - Eigenes 'Konfigurationsmanagement' für 200+ Lixux hosts mit Bash
+        Badges: ['KMU Infrastruktur', 'Private Cloud', 'VPN & Routing Allrounder']
   - Employer: Solexperts AG (via bvz Berufslehrverbund Zürich)
-    Place: Mönchaltorf, Switzerland
+    Place: Mönchaltorf
     Positions:
-      - Title: System Administrator Apprentice
+      - Title: System Administrator Lehrling
         Date: Aug 2017 - Jul 2018
         Details:
-          - Server & network maintenance
-          - Inhouse support for ~50 coworkers
-          - device management in vertec (including maintainance and development of a custom vertec database)
-          - Windows client staging, configuration & application packaging with Highsystem
-          - Product owner of in-field measuring devices (setup, maintenance, warehouse mgmt, internal coordination & billing, coordination of migration from deprecated win7 to debian)
-          - Implementation of Vlan as practical part of my apprentice evaluation
+          - Server- & Netzwerkpflege
+          - Inhouse Support für ~50 Mitarbeiter
+          - Gerätemanagement in Vertec (mit Pflege & Weiterentwicklung der eigenen Vertec Datenbank)
+          - Windows Clients staging, Konfiguration & Applikation Packaging mit Highsystem
+          - Product Owner von Feldmessgeräten (Setup, Wartung, Logistik, Koordination, Planung & Koordination der Migration von Win7 zu Debian)
+          - Implementation von Vlan als Teil meiner IPA
         Badges: ['Client Management', 'Product Lifecycle']
   - Employer: In&Work AG (via bvz Berufslehrverbund Zürich)
-    Place: Zurich, Switzerland
+    Place: Zurich
     Positions:
-      - Title: System Administrator Apprentice
+      - Title: System Administrator Lehrling
         Date: Sep 2015 - Jul 2017
         Details:
-          - Internal server and network management with current best practices
-          - Infrastructure automation, monitoring & documentation with Gitlab, Puppet & CheckMK
-          - Linux Deep Dive (Linux From Scratch, studying of RHCSA course material)
-          - Virtualization with VMWare on HPE Servers
-          - Migration of the bureau and two racks to a new location (including cabling, labeling, etc.)
-          - Various Exercises matching the school topics at that time like monitoring evaluation and implementation or Active Directory automation
+          - Server- & Netzwerkpflege mit aktuellen Best Practices
+          - Ifrastruktur Automation, Monitoring & Dokumentation mit Gitlab, Puppet & CheckMK
+          - Linux Deep Dive (Linux From Scratch, Studieren und üben von RHCSA Kursmaterial)
+          - Virtualization mit VMWare auf HPE Servers
+          - Büroumzug inklusive Migration von zwei Racks zu neuem Standort (inklusive Verkabelung, Beschriftung, etc.)
+          - Diverse Übungen passend zum jeweiligen Schulfach wie z.B. Monitoring Evaluation und Implementation oder Active Directory Automation
         Badges: ['Linux', 'Enterprise Hardware', 'State of the Art IT']
   - Employer: PC Lade Inh. Senol Sakru
-    Place: Otelfingen/Buchs ZH, Switzerland
+    Place: Otelfingen/Buchs ZH
     Positions:
-      - Title: System Administrator Apprentice
+      - Title: System Administrator Lehrling
         Date: Aug 2014 - Aug 2015
         Details:
-          - Laptop/Computer setup, repair
+          - Laptop/Computer Setup & Reparatur
           - Malware cleaning
-          - Consulting, sales & support of electronics devices for private customers and SMEs
+          - Beratung, Verkauf & Support von EDV für Privatkunden & KMUs
         Badges: ['Microsoft', 'Customer Relationship', 'Support']
   - Employer: McDonalds
-    Place: Regensdorf, Switzerland
+    Place: Regensdorf
     Positions:
       - Title: Crew Member
         Date: Mar 2013 - Jul 2014
         Details:
-          - Operating the cash register
-          - Cleaning (from tables & kitchen machines to playground or the outside walls, pretty much everything)
-        Badges: ['Cleaning', 'Customer Experience', 'Multitasking']
+          - Kasse
+          - Putzen (von Tischen & Küchenmaschinen zum Spielplatz oder der Aussenwand, praktisch alles)
+        Badges: ['Putzen', 'Customer Experience', 'Multitasking']
   - Employer: Lernzentren/Libs Zürich
-    Place: Oerlikon ZH, Switzerland
+    Place: Oerlikon ZH
     Positions:
-      - Title: Constructor Apprentice (machine design)
+      - Title: Konstrukteur Lehrling
         Date: Aug 2011 - Nov 2012
         Details:
           - 3D CAD
-          - Material science
-          - 6 months workshop experience with metal turning, milling, welding & grinding
-          - Operation/programming of CNC milling Machines
-          - Basics in Automation (hydraulics & pneumatics)
-        Badges: ['Metal Workshop', 'CAD']
+          - Materialkunde
+          - 6 Monate Werkstatterfahrung mit Metalldrehen, Fräsen, Schleifen & Schweissen 
+          - Benutzung & Programmierung von CNC Maschinen
+          - Einführung in die Automation (Hydraulik & Pneumatik)
+        Badges: ['Metallwerkstatt', 'CAD']
 
 Education:
-  - Course: Information Technologist apprenticeship, Specialism System and Network Technology
+  - Course: Informatiker EFZ Systemtechnik
     Place: Technische Berufsschule Zürich TBZ
     Date: Aug 2014 - Jul 2019
-    Details: Fundamentals of systems & network engineering in various courses, enterpreneurial skills pass
-  - Course: First of 4 years constructor apprenticeship (machine design)
+    Details: Grundlagen der System- & Netzwerktechnik in diversen Kursen, Enterpreneurial Skills Pass
+  - Course: Erstes von 4 Jahren der Konstrukteur Lehre
     Place: Berufsschule Rüti
-    Date: Aug 2011 - Oct 2012
-    Details: CAD drawing, Material Science
+    Date: Aug 2011 - Okt 2012
+    Details: CAD zeichnen, Materialkunde
 
 Skills:
-  - Family: Programming
+  - Family: Programmierung
     Items:
       - Bash
       - SQL
       - Nix (NixOS)
       - Python
       - Powershell
-  - Family: Virtualization
+  - Family: Virtualisierung
     Items:
       - Proxmox
       - VMWare ESX/vSphere
       - Docker (swarm)
       - Ceph
-      - KVM with virsh
-  - Family: Operating Systems
+      - KVM mit virsh
+  - Family: Operationssysteme
     Items:
       - Debian
       - Redhat/Centos
@@ -122,7 +122,7 @@ Skills:
       - Netapp
       - Dell OS10
       - Cisco Switch & Firewall
-  - Family: Technology
+  - Family: Technologie
     Items:
       - Shorewall
       - Bird BGP Routing
@@ -134,7 +134,7 @@ Skills:
       - IPSEC / Wireguard / OpenVPN
       - SNMP
       - Checkmk
-      - Icinga2 with NRPE
+      - Icinga2 mit NRPE
       - Puppet / Katello
       - Git / Gitlab / Github
       - Bacula / Rsync / Borg Backup
@@ -143,13 +143,13 @@ Skills:
       - Vertec
 
 Languages:
-  - Name: German
+  - Name: Deutsch
     Level: Native
-  - Name: English
+  - Name: Englisch
     Level: ~B2-C1
 
 Diplomas:
-  - Information Technologist, Federal Diploma of Vocational Education and Training, Specialism System and Network Technology (2018)
+  - Informatiker EFZ Systemtechnik (2018)
   - _
   - EBC*L The international Certificate for Business Competence, Level A (2018)
   - _
@@ -157,7 +157,7 @@ Diplomas:
 
 Interests:
   - Bouldering
-  - Bass Guitar
-  - Music
+  - Bassgitarre
+  - Musik
   - Linux
   - Camping

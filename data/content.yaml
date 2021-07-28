@@ -6,11 +6,11 @@ BasicInfo:
     - Icon: fas fa-phone
       Info: +41 79 923 50 51
     - Icon: fas fa-envelope
-      Info: sam@yosemitesam.ch
+      Info: samuel@ton-kunst.ch
     - Icon: fas fa-globe
       Info: yosemitesam.ch
     - Icon: fas fa-map-marker-alt
-      Info: Switzerland
+      Info: Pfungen, Switzerland
 
 Profile: I'm a System Engineer currently working at Andeo AG. I'm an open source enthusiast with a big love automation. I believe that using open source software is not enough. Only active contribution leads to a healthy community, relationship and a deeper understanding of this unique ecosystem(s) open source has to offer.
 
@@ -24,8 +24,8 @@ Experience:
           - Internal server & network maintenance
           - Setup & maintenance of SME infrastructures, 1./2. lvl support
           - Setup & maintenance of multiple Proxmox Clusters in multiple datacenters
-          - Maintenance of various services like plesk domain mgmt, asterisk pbx, sql server, etc.
-          - Complex VPN Infrastructure
+          - Maintenance of various services like plesk, asterisk pbx, sql server, etc.
+          - Maintenance of a complex VPN Infrastructure
           - Custom configuration management of 200+ linux servers with bash
         Badges: ['SME Infrastructure', 'Private Cloud', 'VPN & Routing Allrounder']
   - Employer: Solexperts AG (via bvz Berufslehrverbund Zürich)
@@ -49,7 +49,7 @@ Experience:
         Details:
           - Internal server and network management with current best practices
           - Infrastructure automation, monitoring & documentation with Gitlab, Puppet & CheckMK
-          - Linux Deep Dive (Linux From Scratch, studying of RHCSA course material)
+          - Linux Deep Dive (Linux From Scratch, studying & exercise of RHCSA course material)
           - Virtualization with VMWare on HPE Servers
           - Migration of the bureau and two racks to a new location (including cabling, labeling, etc.)
           - Various Exercises matching the school topics at that time like monitoring evaluation and implementation or Active Directory automation
