@@ -28,5 +28,7 @@ jobs:
             registry.yosemitesam.ch:443/cv:latest
             registry.yosemitesam.ch:443/cv:0.1.0
       -
-        name: Image digest
-        run: echo ${{ steps.docker_build.outputs.digest }}
+        name: Invoke deployment hook
+        uses: distributhor/workflow-webhook@v2
+        env:
+          webhook_url: ${{ secrets.WEBHOOK_URL }}
