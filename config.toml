@@ -2,3 +2,9 @@ baseURL = "https://cv.yosemitesam.ch/"
 languageCode = "en-us"
 title = "Yosemitesam"
 theme = "almeida-cv"
+
+[languages]
+  [languages.en]
+    weight = 1
+  [languages.de]
+    weight = 2
