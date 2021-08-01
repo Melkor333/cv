@@ -8,3 +8,6 @@ theme = "almeida-cv"
     weight = 1
   [languages.de]
     weight = 2
+
+[params]
+  pages = 2

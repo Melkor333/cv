@@ -12,7 +12,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Pfungen, Schweiz
 
-Profile: Ich arbeite zurzeit als Systemtechniker bei der Andeo AG. Ich bin ein Open Source Fan und habe eine grosse Liebe für Automation. Ich glaub Open Source benutzen ist nicht genug. Nur aktive Beiträge führen zu einer gesunden Community, Beziehung und einem tieferen Verständnis der verschiedenen einzigartigen Opensource-Ökosysteme.
+Profile: Ich arbeite zurzeit als Systemtechniker bei der Andeo AG. Ich bin ein Open Source Fan und habe eine grosse Liebe für Automation. Ich glaube Open Source Nutzen ist nicht genug. Nur aktive Beiträge führen zu einer gesunden Community, Beziehung und einem tieferen Verständnis der verschiedenen einzigartigen Opensource-Ökosysteme.
 
 Experience:
   - Employer: Andeo AG
@@ -26,7 +26,7 @@ Experience:
           - Einrichten & Wartung mehrerer Proxmox Clusters in verschiedenen Rechenzentren
           - Wartung von diversen Services wie Plesk, Asterisk, MS/MySQL Server, etc.
           - Wartung einer komplexe VPN Infrastruktur
-          - Eigenes 'Konfigurationsmanagement' für 200+ Lixux hosts mit Bash
+          - Eigenes 'Konfigurationsmanagement' für 200+ Linux hosts mit Bash
         Badges: ['KMU Infrastruktur', 'Private Cloud', 'VPN & Routing Allrounder']
   - Employer: Solexperts AG (via bvz Berufslehrverbund Zürich)
     Place: Mönchaltorf
@@ -156,7 +156,7 @@ Diplomas:
   - Entrepreneurial Skills Pass (2017)
 
 Interests:
-  - Bouldering
+  - Boulderen
   - Bassgitarre
   - Musik
   - Linux
