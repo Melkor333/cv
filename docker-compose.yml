@@ -11,7 +11,7 @@ services:
         - traefik.enable=true
           #- traefik.port=8080
         - traefik.http.services.cv-cv.loadbalancer.server.port=80
-        - traefik.http.routers.cv.rule=Host(`yosemitesam.ch`) && Path(`/about/`, `/{lang:[a-z]+}/about/`)
+        - traefik.http.routers.cv.rule=Host(`cv.yosemitesam.ch`)
         - traefik.http.routers.cv.entrypoints=https
         - traefik.http.routers.cv.tls.certresolver=le
         - traefik.http.routers.cv.tls=true
