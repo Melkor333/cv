@@ -1,4 +1,4 @@
-baseURL = "https://cv.yosemitesam.ch/"
+baseURL = "https://yosemitesam.ch/about"
 languageCode = "en-us"
 title = "Yosemitesam"
 theme = "almeida-cv"
